@@ -43,7 +43,6 @@ focus: Data Science, Deep Learning, Agentic AI Workflows
 currently_building: Ultimate AI Resume Builder, Plant Disease Detection (CNN)
 side_quest: Making music 🎵 — check the YouTube channel above
 looking_for: Data Scientist roles / research engineering collaborations
-fun_fact: I ship both models and melodies 🎧
 ```
 
 - 🔭 3rd-year B.Tech CSE student, consistently in the top of my class with a **9.65 CGPA**
