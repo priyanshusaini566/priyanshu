@@ -62,7 +62,7 @@ looking_for: Data Scientist roles / research engineering collaborations
 ### 🌿 Plant Disease Detection
 Deep learning system using **Convolutional Neural Networks (CNN)** to classify plant leaf images and detect disease early — aimed at helping farmers act before crop loss spreads.
 
-`Python` `TensorFlow/Keras` `CNN` `Computer Vision`
+`Python` `TensorFlow/Keras` `CNN` 
 
 </td>
 <td width="50%" valign="top">
